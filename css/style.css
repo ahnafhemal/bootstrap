@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,600;1,100;1,200;1,300;1,400;1,500;1,600&display=swap');
+
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+
+.background-gradient {
+    background-image: linear-gradient(90deg, #2937f0, #9f1ae2);
+}
+
+.navigatin {
+    height: 80px;
+}
+
+.text-blue {
+    color: #2937f0;
+}
+
+.text-2 {
+    color: #9f1ae2;
+}
+
+.banner {
+    min-height: calc(100vh - 80px);
+
+}
+
+.stop-writing {
+    background-image: url(../img/background.png);
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: rgba(0, 0, 0, 0.498);
+    background-blend-mode: overlay;
+}
+
+
+/* .new-web-design {
+    height: 100vh;
+} */
